@@ -1,0 +1,43 @@
+html{
+    padding: 0% 10%;
+    background-color: aliceblue;
+}
+p {
+    color: darkslategrey;
+}
+ul{
+    color: darkslategrey;
+}
+mark
+{
+    background-color: rgba(0,0,0,0.2);
+    color: #8B0000;
+}
+@font-face
+{
+    font-family: "nasalization";
+    src: url(nasalization-rg.ttf);
+}
+h1 {
+    margin: 0%;
+    padding: 10px;
+    font-family: nasalization;
+    font-size: 45px;
+    text-decoration: underline black;
+    text-align: center;
+}
+h2 {
+    color: rgb(178, 34, 34);
+    font-family: nasalization;
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+q {
+    border-width: 2px;
+    border-color: black;
+}
+p ul {
+    margin: 0% 5%;
+}
+
