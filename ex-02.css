@@ -8,17 +8,15 @@ p {
 ul{
     color: darkslategrey;
 }
-mark
-{
-    background-color: rgba(0,0,0,0.2);
-    color: #8B0000;
-}
+
 @font-face
 {
     font-family: "nasalization";
     src: url(nasalization-rg.ttf);
 }
 h1 {
+    background-color: rgba(0,0,0,0.2);
+    color: #8B0000;
     margin: 0%;
     padding: 10px;
     font-family: nasalization;
@@ -40,4 +38,15 @@ q {
 p ul {
     margin: 0% 5%;
 }
-
+.média {
+    width: 33%;
+    overflow: hidden;
+    margin-left: 4em;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+}
+mark {
+    color: green;
+}
