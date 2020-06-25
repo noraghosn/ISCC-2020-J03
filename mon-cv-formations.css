@@ -1,0 +1,29 @@
+.titre {
+    display: flex;
+    flex-direction: row ; 
+    background-color:lavender;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline black;
+}
+.sous-titres {
+    display: flex;
+    flex-direction: row ; 
+    text-indent: 800%;
+}
+
+    .content2 {
+        display: flex;
+        flex-direction: row ; 
+        background-color:lavender;
+    }
+    .téléphone {
+        width: 33%;
+    }
+    .mail {
+        width: 33%;
+    }
+    .réseaux {
+        width: 33%;
+    }
