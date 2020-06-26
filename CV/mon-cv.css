@@ -1,11 +1,20 @@
+html {
+    background-color:rgb(255, 253, 248);
+}
 .titre {
     display: flex;
     flex-direction: row ; 
     background-color: lavender;
 }
+h1 {
+    padding-left: 3%;
+}
 h2 {
     text-align: center;
     text-decoration: underline black;
+}
+img {
+    border: black 1px solid;
 }
 .sous-titres {
     display: flex;
@@ -20,6 +29,7 @@ h2 {
 
 .profil {
     width: 50%;
+    padding-left: 2%;
 }
 .compétences {
     width: 50%;

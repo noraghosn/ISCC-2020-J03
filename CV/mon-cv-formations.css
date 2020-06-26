@@ -1,3 +1,6 @@
+html {
+    background-color:rgb(255, 253, 248);
+}
 .titre {
     display: flex;
     flex-direction: row ; 
@@ -6,6 +9,9 @@
 h2 {
     text-align: center;
     text-decoration: underline black;
+}
+img {
+    border: black 1px solid;
 }
 .sous-titres {
     display: flex;

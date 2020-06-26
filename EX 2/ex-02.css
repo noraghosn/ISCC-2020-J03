@@ -32,8 +32,8 @@ h2 {
     text-align: center;
 }
 q {
-    border-width: 2px;
-    border-color: black;
+    border-width: 2px black;
+    border-style: dotted;
 }
 p ul {
     margin: 0% 5%;
